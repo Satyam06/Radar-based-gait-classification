@@ -1,0 +1,92 @@
+Data logging:
+
+ 
+
+-      TI toolbox creates a BIN file
+
+o   Logs point cloud
+
+o   Logs ADC / 3D Spectrum
+
+-      Use of camera
+
+o   To check: Does TI allow to log camera
+
+o   Plan B: Use a parallel tool for logging camera (will introduce a delay. To be checked: How long)
+
+o   Maybe: Just take a picture of the room
+
+-      Other sensor? PMD, 3 UDS
+
+-      Simple situation like person walking in room
+
+o   Simple segmentation in spectrum (all non-stationary is human)
+
+o   Bubble around the walking speed (incl. micro-doppler)
+
+-      Gesture:
+
+ 
+
+Next steps:
+
+-      January
+
+o   Make a proposal for a data logging campaign (incl. reference  and/or a camera for visual inspection, choose length of data collection)
+
+o   Make a proposal how/what to label (e.g. no need to do a full segmentation)
+
+-      February:
+
+o   Data logging
+
+ 
+
+Next meeting 5th: February
+
+ 
+
+ 
+
+Gait analysis - Wikipedia
+
+Machine Learning with Python: Training and Testing the Neural Network with MNIST data set (python-course.eu)
+
+ 
+
+
+>>> Andreas Becker 06/24/20 2:32 PM >>>
+
+ 
+
+ 
+
+- Need to re-book flights
+
+ 
+
+- Human motion detection (gestures / gait)
+
+ 
+
+- Decision necessary: Simulation or logs
+
+ 
+
+- Necessary: Access to workstation
+
+ 
+
+- TI Videos: Source code available
+
+- Data card: Check memory on board / setting up the system
+
+ 
+
+1. Step: Check all available TI-Examples and sensors that are relevant for gait / gesture
+
+2. Step: Analyze technology that TI is using (do they use ML/AI)
+
+ 
+
+ 
